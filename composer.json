@@ -40,7 +40,6 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "test/Tests/",
-            "App\\": "test/laravel-skeleton/app/",
             "Database\\Factories\\": "test/laravel-skeleton/database/factories/",
             "Database\\Seeders\\": "test/laravel-skeleton/database/seeders/"
         }
